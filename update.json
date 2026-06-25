@@ -7,6 +7,6 @@
     "Added Malware Detection Engine",
     "Performance Improvements"
   ],
-  "apk_url": "https://yourserver.com/hares_v1.0.1.apk",
+  "apk_url": "https://github.com/USERNAME/hares-updates/releases/download/v1.0.1/hares.apk",
   "mandatory": false
 }
