@@ -1,0 +1,12 @@
+{
+  "version": "1.0.1",
+  "build": 2,
+  "title": "New Security Update",
+  "description": [
+    "Improved URL Scanner",
+    "Added Malware Detection Engine",
+    "Performance Improvements"
+  ],
+  "apk_url": "https://yourserver.com/hares_v1.0.1.apk",
+  "mandatory": false
+}
